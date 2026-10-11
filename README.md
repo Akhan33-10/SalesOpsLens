@@ -27,7 +27,7 @@ Before reporting, I checked the data and found 5 problem rows: a duplicate Order
 - Returns: 8% of sales
 
 ## Insights
-1. Every region and every salesperson beat target (regions 147% to 154%, people 137% to 171%). Targets may be too low.
+1. Every region and salesperson beat target (regions 147% to 154%, people 137% to 171%). Targets are set per order in this data, so a        monthly target per salesperson would be a better basis.
 2. Regions perform almost the same. The difference is between people.
 3. Only 76% of sales value is collected. Pending payments need follow-up.
 4. Monthly achievement is flat (144% to 155%), so there is no growth trend.
