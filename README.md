@@ -6,6 +6,7 @@ An Excel MIS report that gives a sales manager one place to see sales against ta
 A manager needs daily, weekly and monthly reports they can trust, and a clear view of where to act.
 
 ## Data
+- Target_Amount is recorded per order, so achievement % is total sales divided by the sum of order targets
 - 12,000 order records, April to September 2026
 - Employee master (50 rows) and product master (20 rows)
 
